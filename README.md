@@ -1,0 +1,2 @@
+# archetypes
+maven archetypes
