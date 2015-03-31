@@ -60,7 +60,7 @@
         </dependency>
 
         <dependency>
-        	<groupId>com.andrewfarrel.cleancode</groupId>
+        	<groupId>${groupId}</groupId>
         	<artifactId>Use-case-requests</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>

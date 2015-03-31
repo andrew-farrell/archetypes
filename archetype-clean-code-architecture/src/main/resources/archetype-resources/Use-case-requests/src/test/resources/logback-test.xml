@@ -10,7 +10,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.andrewfarrel.cleancode.${artifactId}" level="debug" />
+    <logger name="${groupId}.${artifactId}" level="debug" />
 
     <root level="debug">
         <appender-ref ref="stdout" />
