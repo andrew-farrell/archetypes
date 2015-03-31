@@ -60,7 +60,7 @@
         </dependency>
 
         <dependency>
-        	<groupId>com.sandbox.clean</groupId>
+        	<groupId>${groupId}</groupId>
         	<artifactId>Builders</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>

@@ -60,12 +60,12 @@
         </dependency>
 
         <dependency>
-        	<groupId>com.sandbox.clean</groupId>
+        	<groupId>${groupId}</groupId>
         	<artifactId>Database-Gateways</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
-        	<groupId>com.sandbox.clean</groupId>
+        	<groupId>${groupId}</groupId>
         	<artifactId>Entities</artifactId>
         	<version>0.0.1-SNAPSHOT</version>
         </dependency>
