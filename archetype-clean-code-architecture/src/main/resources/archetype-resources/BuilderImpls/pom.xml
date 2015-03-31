@@ -59,6 +59,17 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Builders</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.andrewfarrel.cleancode</groupId>
+        	<artifactId>Use-case-requests</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <build>
