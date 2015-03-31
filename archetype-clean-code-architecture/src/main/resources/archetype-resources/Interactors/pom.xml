@@ -59,6 +59,36 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Entities</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Use-case-activator</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Use-case-responses</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Use-case-responder</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Database-Gateways</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.andrewfarrel.cleancode</groupId>
+        	<artifactId>Use-case-requests</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>

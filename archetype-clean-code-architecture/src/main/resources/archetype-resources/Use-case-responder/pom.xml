@@ -59,6 +59,11 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>Use-case-responses</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>

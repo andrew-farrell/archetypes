@@ -59,6 +59,11 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+        	<groupId>com.sandbox.clean</groupId>
+        	<artifactId>View-models</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>

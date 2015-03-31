@@ -74,9 +74,9 @@
         </plugins>
     </build>
     <parent>
-    	<groupId>${groupId}</groupId>
-    	<artifactId>${rootArtifactId}</artifactId>
-    	<version>${version}</version>
-    	<relativePath>..</relativePath>
+    	<groupId>com.sandbox.clean</groupId>
+    	<artifactId>sandbox-root</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    	<relativePath>../pom.xml</relativePath>
     </parent>
 </project>
