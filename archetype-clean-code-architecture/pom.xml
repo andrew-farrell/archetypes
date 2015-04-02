@@ -4,7 +4,7 @@
 
   <groupId>com.andrewfarrell.cleancode</groupId>
   <artifactId>clean-architecture-root-archetype</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>maven-archetype</packaging>
 
   <name>clean-architecture-root-archetype</name>
